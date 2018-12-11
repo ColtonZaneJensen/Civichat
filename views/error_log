@@ -1,0 +1,10 @@
+[20-Nov-2018 21:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sessions_start() in /home/cividom/public_html/core/includes.php:1
+Stack trace:
+#0 /home/cividom/public_html/views/index.php(1): require_once()
+#1 {main}
+  thrown in /home/cividom/public_html/core/includes.php on line 1
+[22-Nov-2018 18:55:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_by_id() in /home/cividom/public_html/elements/nav.php:19
+Stack trace:
+#0 /home/cividom/public_html/views/index.php(5): require_once()
+#1 {main}
+  thrown in /home/cividom/public_html/elements/nav.php on line 19

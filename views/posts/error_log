@@ -1,0 +1,16 @@
+[06-Dec-2018 18:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/cividom/public_html/views/posts/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cividom/public_html/views/posts/delete.php on line 3
+[06-Dec-2018 18:14:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/cividom/public_html/views/posts/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cividom/public_html/views/posts/edit.php on line 5
+[07-Dec-2018 16:47:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/cividom/public_html/views/posts/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cividom/public_html/views/posts/edit.php on line 5
+[07-Dec-2018 16:47:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/cividom/public_html/views/posts/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cividom/public_html/views/posts/edit.php on line 5
